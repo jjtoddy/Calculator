@@ -1,4 +1,4 @@
-import           ClassyPrelude
+import           ClassyPrelude               --imported libraries
 import           Data.Text (Text)
 import           Yesod
 
